@@ -1,0 +1,7 @@
+opencv-python
+mediapipe
+fer
+pyautogui
+streamlit
+pyttsx3
+spotipy
